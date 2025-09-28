@@ -1,0 +1,14 @@
+# Core FastAPI and web framework
+fastapi==0.104.1
+uvicorn==0.24.0
+pydantic==2.5.0
+
+# HTTP client for API calls
+aiohttp==3.9.1
+requests==2.31.0
+
+# Logging and utilities
+structlog==23.2.0
+
+# Data processing
+python-multipart==0.0.6
