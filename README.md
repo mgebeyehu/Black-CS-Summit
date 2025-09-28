@@ -1,6 +1,7 @@
 # 🏛️ Chicago Legal Document Democratization Platform
 
 > **Democratizing access to Chicago legal documents through intelligent search and AI-powered assistance**
+> **Deployed link**: https://legal-info-democrati-t5dq.bolt.host/
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://python.org)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.104+-green.svg)](https://fastapi.tiangolo.com)
