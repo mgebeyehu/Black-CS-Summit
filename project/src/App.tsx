@@ -24,7 +24,7 @@ function LandingPage() {
           <div className="flex justify-between items-center py-6">
             <div className="flex items-center space-x-2">
               <Building2 className="h-8 w-8 text-blue-600" />
-              <span className="text-2xl font-bold text-gray-900">ChicagoLegal</span>
+              <span className="text-2xl font-bold text-gray-900">ChiUnity</span>
             </div>
             <div className="flex items-center space-x-4">
               <button className="text-gray-600 hover:text-gray-900 px-4 py-2 text-sm font-medium transition-colors">
@@ -222,7 +222,7 @@ function LandingPage() {
           <div className="flex items-center justify-between">
             <div className="flex items-center space-x-2">
               <Building2 className="h-6 w-6" />
-              <span className="text-lg font-semibold">ChicagoLegal</span>
+              <span className="text-lg font-semibold">ChiUnity</span>
             </div>
             <div className="flex items-center space-x-4">
               <a 
@@ -233,7 +233,7 @@ function LandingPage() {
               >
                 I am a lawyer
               </a>
-              <p className="text-gray-400">© 2025 ChicagoLegal. Empowering Chicago's civic engagement.</p>
+              <p className="text-gray-400">© 2025 ChiUnity. Empowering Chicago's civic engagement.</p>
             </div>
           </div>
         </div>

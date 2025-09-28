@@ -1,5 +1,5 @@
 /**
- * API Client for Chicago Legal Document Democratization Platform
+ * API Client for ChiUnity - Chicago Legal Document Democratization Platform
  * Handles all communication with the FastAPI backend
  */
 
