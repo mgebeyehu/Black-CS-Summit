@@ -42,6 +42,7 @@ class Settings(BaseSettings):
     # Data Sources
     DATA_GOV_API_KEY: Optional[str] = None
     CONGRESS_GOV_API_KEY: Optional[str] = None
+    CHICAGO_API_APP_TOKEN: str = "YOUR_CHICAGO_API_APP_TOKEN"  # Optional, but good practice
     
     # AI Services
     GEMINI_API_KEY: Optional[str] = None
